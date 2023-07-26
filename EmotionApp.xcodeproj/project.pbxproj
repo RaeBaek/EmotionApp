@@ -15,6 +15,7 @@
 		1486220F2A6FDBE000926CCC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1486220D2A6FDBE000926CCC /* LaunchScreen.storyboard */; };
 		148622172A6FE15300926CCC /* EmotionEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 148622162A6FE15300926CCC /* EmotionEnum.swift */; };
 		148622192A6FF33B00926CCC /* StatisticsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 148622182A6FF33B00926CCC /* StatisticsViewController.swift */; };
+		1498B5412A71108400CE3E93 /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1498B5402A71108400CE3E93 /* MainTabBarController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		148622102A6FDBE000926CCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		148622162A6FE15300926CCC /* EmotionEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmotionEnum.swift; sourceTree = "<group>"; };
 		148622182A6FF33B00926CCC /* StatisticsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsViewController.swift; sourceTree = "<group>"; };
+		1498B5402A71108400CE3E93 /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				148622062A6FDBDE00926CCC /* WriteViewController.swift */,
 				148622182A6FF33B00926CCC /* StatisticsViewController.swift */,
 				148622082A6FDBDE00926CCC /* Main.storyboard */,
+				1498B5402A71108400CE3E93 /* MainTabBarController.swift */,
 				1486220B2A6FDBE000926CCC /* Assets.xcassets */,
 				1486220D2A6FDBE000926CCC /* LaunchScreen.storyboard */,
 				148622102A6FDBE000926CCC /* Info.plist */,
@@ -146,6 +149,7 @@
 			files = (
 				148622172A6FE15300926CCC /* EmotionEnum.swift in Sources */,
 				148622192A6FF33B00926CCC /* StatisticsViewController.swift in Sources */,
+				1498B5412A71108400CE3E93 /* MainTabBarController.swift in Sources */,
 				148622072A6FDBDE00926CCC /* WriteViewController.swift in Sources */,
 				148622032A6FDBDE00926CCC /* AppDelegate.swift in Sources */,
 				148622052A6FDBDE00926CCC /* SceneDelegate.swift in Sources */,
